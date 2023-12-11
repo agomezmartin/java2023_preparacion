@@ -1,0 +1,3 @@
+module ModuloClienteArimetica {
+	requires ModuloAritmetico;
+}
